@@ -16,14 +16,17 @@ All releases: [github.com/Capture-Moment/CaptureMoment/releases](https://github.
 
 ## Repositories
 
-- **[CaptureMoment](https://github.com/Capture-Moment/CaptureMoment)**: the photo editor itself
-- **Website**: source code of the official website (complete this link once the repository is public)
+- **[CaptureMoment](https://github.com/Capture-Moment/CaptureMoment)**: the photo editor
+- **[CaptureMoment Website](https://github.com/Capture-Moment/site)**: the website
+- **[CaptureMoment Docs](https://github.com/Capture-Moment/docs)**: the docs
+- **[CaptureMoment LLM](https://github.com/Capture-Moment/llm-site)**: the LLM chat bot
 
 ## Links
 
 - Official website: to be added once the site is online
 - LinkedIn: [Capture Moment](https://www.linkedin.com/company/capture-moment)
-- Website:  [Capture Moment](https://capturemoment.vercel.app/)
+- Website:  [Capture Moment Website](https://capturemoment.vercel.app/)
+- Docs:  [Capture Moment Docs](https://capture-moment.github.io/docs/)
 
 ## Contributing
 

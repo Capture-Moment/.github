@@ -27,7 +27,7 @@ All releases: [github.com/Capture-Moment/CaptureMoment/releases](https://github.
 - LinkedIn: [Capture Moment](https://www.linkedin.com/company/capture-moment)
 - Website:  [Capture Moment Website](https://capturemoment.vercel.app/)
 - Docs:  [Capture Moment Docs](https://capture-moment.github.io/docs/)
-- Technical Page Doxygen: [Capture Moment Doxygen]([https://capture-moment.github.io/docs/](https://capture-moment.github.io/CaptureMoment/)
+- Technical Page Doxygen: [Capture Moment Doxygen](https://capture-moment.github.io/CaptureMoment/)
 
 ## Contributing
 
